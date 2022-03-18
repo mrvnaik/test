@@ -1,2 +1,2 @@
 print('hiii')
-print("lollll")
+print('dddd')
