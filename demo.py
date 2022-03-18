@@ -19,7 +19,7 @@ def mod(a, b):
 
 
 def inn(a):
-    return a+1
+    return a+2
 
 
 inn(2)
