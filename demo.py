@@ -8,6 +8,10 @@ def mul(a,b):
     return a*b
 def div(a,b):
     return b/a
+def mod(a,b):
+    return a%b
+
+assert mod(1,10)==1
 assert add(5,5)==10
 assert div(1,1)==1
 assert sub(10,5)==5
